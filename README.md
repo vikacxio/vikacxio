@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello I'm Vikas Kumar  👋</h1>
+<h1 align="center">Hi, I'm Vikas Kumar  👋</h1>
 
 
 
 <div align="center">
   <img src ="./favicon.png" />
   <h2>Every problem has a solution. But after every solution, there's a new problem to tackle, some new challenge to take on.</h2>
-
   
 </div>
 
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- All about me is at **[My Website](https://https://vikacxio.vercel.app//)**
+- All about me is at **[My Website](https://https://vikacxio.vercel.app/)**
 
 - I’m currently working on `Something Intresting`.
 
@@ -41,11 +40,9 @@ Here are some ideas to get you started:
 
 - I’m looking for help with `Competitive Programming`
 
-- Ask me about anything, Except Maths :sweat_smile:
-
 - Life Hack: Learn new tech :fire: and share what you have learned
 
-- Every problem has a solution
+- Been there done that.
 
 
 
