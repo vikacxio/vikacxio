@@ -18,16 +18,18 @@ Here are some ideas to get you started:
 
 
 
-<div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
-  <div style="flex: 1; text-align: center;">
-    <img src="./favicon.png" alt="Image" style="max-width: 100%; height: auto;" />
-  </div>
-  <div style="flex: 1; display: flex; align-items: center; justify-content: center;">
-    <h2 style="font-size: 24px; text-align: center; margin: 0;">
-      Every problem has a solution. But after every solution, there's a new problem to tackle, some new challenge to take on.
-    </h2>
-  </div>
-</div>
+
+Copy code
+<table>
+  <tr>
+    <td>
+      <img src="./favicon.png" alt="Image" style="max-width: 100%; height: auto;" />
+    </td>
+    <td>
+      <h2>Every problem has a solution. But after every solution, there's a new problem to tackle, some new challenge to take on.</h2>
+    </td>
+  </tr>
+</table>
 
  <br/>
 
