@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 <table>
+<table border="0">
   <tr>
     <td>
       <img src="./favicon.png" alt="Image" style="max-width: 100%; height: auto;" />
