@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Vikas Kumar  👋</h1>
+<h1 align="center">Hi, I'm Vikas 👋</h1>
 
 
-
-
-Copy code
 <table>
   <tr>
     <td>
