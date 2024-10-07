@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img src="./favicon.png" alt="Image" width="200" />
+      <img src="./favicon.png" alt="Image" style="max-width: 100%; height: auto;" />
     </td>
     <td>
       <h2>Every problem has a solution. But after every solution, there's a new problem to tackle, some new challenge to take on.</h2>
     </td>
   </tr>
 </table>
+
 
 
  <br/>
